@@ -1,0 +1,11 @@
+
+deepe@LAPTOP-AIDJ02D1 MINGW64 ~/Documents/ProjectMain
+$ git clone https://github.com/Deepu178/Full-Stack-Web-Development-Internship.git
+Cloning into 'Full-Stack-Web-Development-Internship'...
+warning: You appear to have cloned an empty repository.
+
+deepe@LAPTOP-AIDJ02D1 MINGW64 ~/Documents/ProjectMain
+$ cd Full-Stack-Web-Development-Internship
+
+deepe@LAPTOP-AIDJ02D1 MINGW64 ~/Documents/ProjectMain/Full-Stack-Web-Development-Internship (master)
+$
