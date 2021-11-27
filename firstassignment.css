@@ -1,0 +1,25 @@
+.web{width: 1366px; height: 973px; padding: 0  0 88px; background-color: whitesmoke;}
+.header{background-color: red; height: 80px; width: 1366px; padding: 15px 101px 13px 102px;}
+.logo{color: white; height: 47px; width: 32px; font-family: poppins; font-size: 33px; font-weight: 600; font-stretch: normal; font-style: normal; line-height: 1.52; letter-spacing: normal; text-align: left;}
+.login{position: relative; padding-left: 1000px; width: 43px; height: 23px; margin: 12px 26px 11px 0; font-family: poppins; font-size: 16px; font-weight: 500; font-stretch: normal; font-style: normal; line-height: 1.56; letter-spacing: normal; text-align: left; color: #fff;}
+.create{background-color: red; color: white; border-color: white;}
+.heading{font-family: poppins; font-size: 36px; font-weight: bold; font-stretch: normal; font-style: normal; letter-spacing: normal; text-align: left; color: #192f60; margin-bottom: 10px; margin-left: 15px;}
+.filter-options{background-color: #ffffff; min-width: 250px; height: 550px; padding-left: 30px; margin-bottom: 10px; box-shadow: 0 3px 6px 0 rgba(red, green, blue, alpha);}
+.filter-heading{font-family: poppins; font-size: 18px; font-weight: 600; font-stretch: normal; font-style: normal; line-height: 1.5; letter-spacing: normal; text-align: left; padding-top: 20px;}
+.select-location{height: 20px; font-family: poppins; font-size: 14px; font-weight: normal; font-stretch: normal; font-style: normal; line-height: 1.5; letter-spacing: normal; text-align: left; color: #192f60; margin-top: 30px;}
+.select{width: 200px; height: 20px; border-radius: 5px; border: solid 1px #8c96ab; margin-top: 10px;}
+.cuisine{font-family: poppins; font-size: 14px; font-weight: normal; font-stretch: normal; font-style: normal; line-height: 1.5; letter-spacing: normal; text-align: left; color: #192f60; margin-top: 12px;}
+.cuisine-items{font-family: poppins; font-size: 14px; font-weight: normal; font-stretch: normal; font-style: normal; line-height: 1.5; letter-spacing: normal; text-align: left; color: #8c96ab;} 
+.small{display: inline-block; width: 28%;}
+.item{width: 100%; height: 225px; box-shadow: 0 3px 6px 0 rgba(red, green, blue, alpha); background-color: #ffffff; margin-bottom: 15px;}
+.img{width: 100px; height: 100px; border-radius: 35px; margin-left: 25%;}
+.small-item{display: inline-block; width: 28%; vertical-align: top;}
+.vertical{vertical-align: top;}
+.big-item{display: inline-block; width: 28%;}
+.rest-name{font-family: poppins; font-size: 30px; font-weight: 600px; font-stretch: normal; font-style: normal;line-height: 1.53; letter-spacing: normal; color: #192f60;}
+.rest-location{font-family:poppins; font-size: 16px; font-weight: 500px; font-stretch: normal; font-style: normal; line-height: 1.88; letter-spacing: normal; color: #192f60;}
+.rest-address{font-family: poppins; font-size: 16px; font-weight: normal; font-style: normal; line-height: 1.88; letter-spacing: normal; text-align: left; color: #636f88;}
+.margin-left{margin-left: 7%;}
+.big{display:inline-block; width: 68%;}
+.pagination{display: inline-block; margin-left: 275px; margin-top: 10px; border-radius: .25rem;}
+.pagination a{color: gray; float: left; padding: 8px 16px; text-decoration: none; border-radius: 15px; margin: 2px; border: solid 1px gray;}
