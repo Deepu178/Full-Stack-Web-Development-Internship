@@ -1,0 +1,10 @@
+.rectangle{height: 700px; width: 700px; position: absolute; left: 350px; border-color: blue;}
+.special-task{position: absolute; top: 350px; left: 270px; color:red; font-size:x-large;}
+.small-rectangle-1{height: 80px; width: 80px; position: absolute; right: 977px;} 
+.small-rectangle-2{height: 80px; width: 80px; position: absolute; right: 359px;;} 
+.small-rectangle-3{height: 80px; width: 80px; position: absolute; right: 977px; top: 626px;} 
+.small-rectangle-4{height: 80px; width: 80px; position: absolute; right: 359px; top: 626px;} 
+.circle-1{height: 80px; width: 80px; border-radius: 50%; position: absolute; left: 660px;}
+.circle-2{height: 80px; width: 80px; border-radius: 50%; position: absolute; left: 350px; top: 310px;}
+.circle-3{height: 80px; width: 80px; border-radius: 50%; position: absolute; left: 970px; top: 310px;}
+.circle-4{height: 80px; width: 80px; border-radius: 50%; position: absolute; left: 660px; top: 628px;}
